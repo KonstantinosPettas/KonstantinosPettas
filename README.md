@@ -4,7 +4,7 @@
 
 🔭 I'm currently exploring new opportunities to apply my skills and knowledge in the finance industry.
 
-📚 I hold a M.Sc. in Quantitative Management of Actuarial and Financial Risk and an Integrated Master's in Financial and Management Engineering, equipping me with a strong foundation in risk management, finance, and engineering.
+📚 I hold a M.Sc. in Quantitative Management of Actuarial and Financial Risk from Athens University of Economics and Business and an Integrated Master's in Financial and Management Engineering from University of the Aegean.
 
 💼 My professional expertise includes Derivative Pricing, Operational Reseasrch, Financial Econometrics and Risk Management, among others. I'm dedicated to using these skills to make a meaningful impact in the world of finance.
 
